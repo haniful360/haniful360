@@ -1,31 +1,104 @@
-![logo](https://github.com/haniful360/haniful360/blob/main/1.png)
-<h1 align="center">Hi 👋, I'm Haniful Islam (Modhupurno)</h1>
-<h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
+![Banner](https://github.com/haniful360/haniful360/blob/main/1.png)
 
-<img align ="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt ="coding"/>
+<h1 align="center">Hi, I'm Haniful Islam Hanif — a Frontend-focused Full Stack Developer </h1>
+<h3 align="center">Full Stack Developer | React & Next.js Enthusiast | Strategic Thinker</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haniful360&label=Profile%20views&color=0e75b6&style=flat" alt="haniful360" /> </p>
+<div align="center">
+  
+  ![GitHub followers](https://img.shields.io/github/followers/haniful360?style=social)
+  ![GitHub User's stars](https://img.shields.io/github/stars/haniful360?style=social)
+  ![Visitors](https://komarev.com/ghpvc/?username=haniful360&color=blueviolet)
+  
+</div>
 
-- 🌱 I’m currently learning **React JS, P-Hero**
+## 🚀 About Me
 
-- 📫 How to reach me **haniful360@gmail.com**
+I'm a passionate Frontend Developer from Bangladesh with a keen interest in creating beautiful, responsive, and user-friendly web applications. I enjoy turning complex problems into simple, elegant solutions.
 
-- ⚡ Fun fact **😍🥰**
+- 🌱 Currently mastering **React JS, Next.js, TypeScript, and advanced JavaScript**
+- 🔭 Exploring **AI and Machine Learning** technologies
+- 💼 Open to collaboration on interesting projects
+- 🎯 2025 Goals: Contribute to Open Source projects and build a strong portfolio
+- ⚡ Fun fact: I love solving coding challenges and exploring new technologies
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@ha6hanif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ha6hanif" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/haniful-islam-3b28b2229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/haniful-islam-3b28b2229/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:18778695" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:18778695" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/modhupurno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/modhupurno" height="30" width="40" /></a>
-<a href="https://instagram.com/hanifulislam.hanif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hanifulislam.hanif" height="30" width="40" /></a>
-</p>
+## 📫 Let's Connect
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<div align="left">
+  
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@ha6hanif)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haniful-islam-3b28b2229/)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/modhupurno)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hanifulislam.hanif)
+  [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18778695)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haniful360@gmail.com)
+  
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haniful360&show_icons=true&locale=en&layout=compact" alt="haniful360" /></p>
+## 🛠️ Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haniful360&show_icons=true&locale=en" alt="haniful360" /></p>
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink?style=for-the-badge&logo=SASS&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haniful360&" alt="haniful360" /></p>
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+
+## 📊 GitHub Stats
+
+<div align="left">
+  
+  <a href="https://github.com/haniful360">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haniful360&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haniful360&layout=compact&langs_count=8&theme=radical"/>
+  </a>
+  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=haniful360&theme=radical" alt="haniful360" />
+  
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  
+  [![Haniful's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=haniful360&theme=react-dark)](https://github.com/haniful360/github-readme-activity-graph)
+  
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=haniful360&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
+  
+  ⭐️ From [haniful360](https://github.com/haniful360)
+  
+</div>
